@@ -61,3 +61,20 @@ ul {
     background: transparent url(images/ic_action_location.png);
     background-repeat: no-repeat;
 }
+
+.container{
+    height: 100%;
+    width: 100%;
+}
+html, body {
+    height: 100%;
+}
+
+div {
+    height: 99%;
+}
+
+object {
+    width: 100%;
+    min-height: 100%;
+}
