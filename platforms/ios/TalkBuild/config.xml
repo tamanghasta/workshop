@@ -34,5 +34,6 @@
         CFA Marketing Team
     </author>
     <content src="index.html" />
+    <icon src="res/icon.png" />
     <access origin="*" />
 </widget>
