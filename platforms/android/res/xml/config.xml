@@ -7,10 +7,6 @@
     <feature name="Notification">
         <param name="android-package" value="org.apache.cordova.dialogs.Notification" />
     </feature>
-    <icon density="ldpi" src="res/android/icon.png" />
-    <icon density="mdpi" src="res/android/icon.png" />
-    <icon density="hdpi" src="res/android/icon.png" />
-    <icon density="xhdpi" src="res/android/icon.png" />
     <name>TalkBuild</name>
     <description>
       Talk Build App for Construction Professionals
@@ -19,6 +15,6 @@
         CFA Marketing Team
     </author>
     <content src="index.html" />
-    <icon src="icon.png" />
+    <icon src="res/icon.png" />
     <access origin="*" />
 </widget>
